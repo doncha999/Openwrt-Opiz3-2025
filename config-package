@@ -24,3 +24,4 @@ ipset ipt2socks iptables iptables-legacy iptables-mod-iprange \
 iptables-mod-socket iptables-mod-tproxy kmod-ipt-nat coreutils coreutils-base64 \
 coreutils-nohup curl dns2socks ip-full libuci-lua lua luci-compat luci-lib-jsonc \
 microsocks resolveip tcping
+luci-app-atinout luci-app-mmconfig luci-app-modeminfo luci-app-smstools3 luci-app-ussd modeminfo modeminfo-qmi modeminfo-serial-dell modeminfo-serial-fibocom modeminfo-serial-gosun modeminfo-serial-huawei modeminfo-serial-meig modeminfo-serial-mikrotik modeminfo-serial-quectel modeminfo-serial-sierra modeminfo-serial-simcom modeminfo-serial-styx modeminfo-serial-telit modeminfo-serial-thales modeminfo-serial-tw modeminfo-serial-xmm modeminfo-serial-yuge modeminfo-serial-zte \
